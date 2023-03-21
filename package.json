@@ -1,0 +1,28 @@
+{
+  "name": "escarmon",
+  "version": "1.0.0",
+  "description": "Intégration maquette Escarmon (jeu fictif)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frost7656/Escarmon.git"
+  },
+  "keywords": [
+    "escarmon",
+    "intégration",
+    "développement",
+    "web"
+  ],
+  "author": "Noah ABRAHAM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frost7656/Escarmon/issues"
+  },
+  "homepage": "https://github.com/Frost7656/Escarmon#readme",
+  "dependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
